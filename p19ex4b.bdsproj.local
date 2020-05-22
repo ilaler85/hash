@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2011.02.16 14:12:11.671.pas,D:\Мои документы\Задачи Delphi\Unit1.pas=D:\Мои документы\Задачи Delphi\СиАКОД\p19ex4b\SP1\UMain.pas</Transaction>
+    <Transaction>2011.02.16 14:12:11.687.dfm,D:\Мои документы\Задачи Delphi\Unit1.dfm=D:\Мои документы\Задачи Delphi\СиАКОД\p19ex4b\SP1\UMain.dfm</Transaction>
+    <Transaction>2011.02.16 14:12:21.046.bdsproj,D:\Мои документы\Задачи Delphi\Project1.bdsproj=D:\Мои документы\Задачи Delphi\СиАКОД\p19ex4b\SP1\p19ex4b.bdsproj</Transaction>
+    <Transaction>2011.02.16 15:51:48.484.pas,D:\Мои документы\Задачи Delphi\СиАКОД\p19ex4b\SP1\Unit1.pas=D:\Мои документы\Задачи Delphi\СиАКОД\p19ex4b\SP1\UData.pas</Transaction>
+    <Transaction>2011.02.16 15:52:08.750.pas,D:\Мои документы\Задачи Delphi\СиАКОД\p19ex4b\SP1\Unit1.pas=D:\Мои документы\Задачи Delphi\СиАКОД\p19ex4b\SP1\UList.pas</Transaction>
+    <Transaction>2011.02.16 15:52:29.796.pas,D:\Мои документы\Задачи Delphi\СиАКОД\p19ex4b\SP1\Unit1.pas=D:\Мои документы\Задачи Delphi\СиАКОД\p19ex4b\SP1\UTable.pas</Transaction>
+    <Transaction>2011.03.17 01:11:10.812.pas,D:\Мои документы\Задачи Delphi\СиАКОД\p19ex4b\SP1\Unit1.pas=D:\Мои документы\Задачи Delphi\СиАКОД\p19ex4b\SP1\UTableGUI.pas</Transaction>
+    <Transaction>2011.03.17 01:18:16.140.pas,D:\Мои документы\Задачи Delphi\СиАКОД\p19ex4b\SP1\UTable.pas=D:\Мои документы\Задачи Delphi\СиАКОД\p19ex4b\SP1\UHashTable.pas</Transaction>
+    <Transaction>2011.03.17 01:18:35.968.pas,D:\Мои документы\Задачи Delphi\СиАКОД\p19ex4b\SP1\UTableGUI.pas=D:\Мои документы\Задачи Delphi\СиАКОД\p19ex4b\SP1\UHashTableGUI.pas</Transaction>
+    <Transaction>2011.03.24 01:19:55.031.pas,D:\Документы\Деновы\Задачи Delphi\4 семестр\Ogarkova\p19ex4b\SP1\Unit1.pas=D:\Документы\Деновы\Задачи Delphi\4 семестр\Ogarkova\p19ex4b\SP1\UFormFind.pas</Transaction>
+    <Transaction>2011.03.24 01:19:55.031.dfm,D:\Документы\Деновы\Задачи Delphi\4 семестр\Ogarkova\p19ex4b\SP1\Unit1.dfm=D:\Документы\Деновы\Задачи Delphi\4 семестр\Ogarkova\p19ex4b\SP1\UFormFind.dfm</Transaction>
+    <Transaction>2011.03.24 01:22:37.328.pas,D:\Документы\Деновы\Задачи Delphi\4 семестр\Ogarkova\p19ex4b\SP1\Unit1.pas=D:\Документы\Деновы\Задачи Delphi\4 семестр\Ogarkova\p19ex4b\SP1\UFormEdit.pas</Transaction>
+    <Transaction>2011.03.24 01:22:37.328.dfm,D:\Документы\Деновы\Задачи Delphi\4 семестр\Ogarkova\p19ex4b\SP1\Unit1.dfm=D:\Документы\Деновы\Задачи Delphi\4 семестр\Ogarkova\p19ex4b\SP1\UFormEdit.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
